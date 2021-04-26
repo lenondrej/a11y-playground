@@ -1,0 +1,22 @@
+form {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  border: 2px dotted blue;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  width: 80vh;
+}
+
+label {
+  padding-right: 10px;
+}
+
+input {
+  max-width: 60vh;
+}
